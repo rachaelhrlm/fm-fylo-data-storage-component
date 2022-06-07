@@ -1,0 +1,9 @@
+html {
+  color: hsl(243, 100%, 93%);
+  font-size: 14px;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  min-height: 100vh;
+}

@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/fm-fylo-data-storage-component/static/js/main.4b612ab4.js",
+    "static/js/787.82e26e52.chunk.js": "/fm-fylo-data-storage-component/static/js/787.82e26e52.chunk.js",
+    "index.html": "/fm-fylo-data-storage-component/index.html",
+    "main.4b612ab4.js.map": "/fm-fylo-data-storage-component/static/js/main.4b612ab4.js.map",
+    "787.82e26e52.chunk.js.map": "/fm-fylo-data-storage-component/static/js/787.82e26e52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4b612ab4.js"
+  ]
+}
